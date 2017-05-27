@@ -1,4 +1,4 @@
-1.Světelný panel
+1. Světelný panel
 =================
 
 1.1 Třídy světelného panelu
@@ -80,7 +80,7 @@ panelu se pustí nějaké demo (něco jako XYmatrix example z knihovny
 FastLED pro Arduino). Změna hry bude možná i stisknutím tlačítka hry,
 bez nutnosti ukončovat aktuální hru tlačítkem cancel.
 
-2.2Fungování SW menu
+2.2 Fungování SW menu
 --------------------
 Jedná se o service-like aplikaci, která obstarává párování wiimotes,
 a komunikaci s HW menu a podle toho pouští jednotlivé hry, jejichž 
