@@ -48,7 +48,7 @@ ukončení hry.
 `return (x, y)`
 
 2. Panel menu
-=============
+-------------
 
 Jeden skript, nejlépe fungující jako service, obstarávající hlavní
 ovládání. Přes druhou sériovou linku komunikace s Arduinem s připojeným
